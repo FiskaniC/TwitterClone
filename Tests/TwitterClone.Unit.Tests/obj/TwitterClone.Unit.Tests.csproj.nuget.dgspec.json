@@ -1,0 +1,274 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ABFC156\\Documents\\My Development\\Interviews\\Allan Gray\\TwitterClone\\Tests\\TwitterClone.Unit.Tests\\TwitterClone.Unit.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ABFC156\\Documents\\My Development\\Interviews\\Allan Gray\\TwitterClone\\Source\\Core\\TwitterClone.Application\\TwitterClone.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ABFC156\\Documents\\My Development\\Interviews\\Allan Gray\\TwitterClone\\Source\\Core\\TwitterClone.Application\\TwitterClone.Application.csproj",
+        "projectName": "TwitterClone.Application",
+        "projectPath": "C:\\Users\\ABFC156\\Documents\\My Development\\Interviews\\Allan Gray\\TwitterClone\\Source\\Core\\TwitterClone.Application\\TwitterClone.Application.csproj",
+        "packagesPath": "C:\\Users\\ABFC156\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ABFC156\\Documents\\My Development\\Interviews\\Allan Gray\\TwitterClone\\Source\\Core\\TwitterClone.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ABFC156\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://artifacts.bcp.absa.co.za/artifactory/api/nuget/absa-access-nuget": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ABFC156\\Documents\\My Development\\Interviews\\Allan Gray\\TwitterClone\\Source\\Infrastructure\\TwitterClone.Infrastructure.FileReader\\TwitterClone.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ABFC156\\Documents\\My Development\\Interviews\\Allan Gray\\TwitterClone\\Source\\Infrastructure\\TwitterClone.Infrastructure.FileReader\\TwitterClone.Infrastructure.csproj",
+        "projectName": "TwitterClone.Infrastructure",
+        "projectPath": "C:\\Users\\ABFC156\\Documents\\My Development\\Interviews\\Allan Gray\\TwitterClone\\Source\\Infrastructure\\TwitterClone.Infrastructure.FileReader\\TwitterClone.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\ABFC156\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ABFC156\\Documents\\My Development\\Interviews\\Allan Gray\\TwitterClone\\Source\\Infrastructure\\TwitterClone.Infrastructure.FileReader\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ABFC156\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://artifacts.bcp.absa.co.za/artifactory/api/nuget/absa-access-nuget": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\ABFC156\\Documents\\My Development\\Interviews\\Allan Gray\\TwitterClone\\Source\\Core\\TwitterClone.Application\\TwitterClone.Application.csproj": {
+                "projectPath": "C:\\Users\\ABFC156\\Documents\\My Development\\Interviews\\Allan Gray\\TwitterClone\\Source\\Core\\TwitterClone.Application\\TwitterClone.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ABFC156\\Documents\\My Development\\Interviews\\Allan Gray\\TwitterClone\\Tests\\TwitterClone.Unit.Tests\\TwitterClone.Unit.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ABFC156\\Documents\\My Development\\Interviews\\Allan Gray\\TwitterClone\\Tests\\TwitterClone.Unit.Tests\\TwitterClone.Unit.Tests.csproj",
+        "projectName": "TwitterClone.Unit.Tests",
+        "projectPath": "C:\\Users\\ABFC156\\Documents\\My Development\\Interviews\\Allan Gray\\TwitterClone\\Tests\\TwitterClone.Unit.Tests\\TwitterClone.Unit.Tests.csproj",
+        "packagesPath": "C:\\Users\\ABFC156\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ABFC156\\Documents\\My Development\\Interviews\\Allan Gray\\TwitterClone\\Tests\\TwitterClone.Unit.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ABFC156\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://artifacts.bcp.absa.co.za/artifactory/api/nuget/absa-access-nuget": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\ABFC156\\Documents\\My Development\\Interviews\\Allan Gray\\TwitterClone\\Source\\Core\\TwitterClone.Application\\TwitterClone.Application.csproj": {
+                "projectPath": "C:\\Users\\ABFC156\\Documents\\My Development\\Interviews\\Allan Gray\\TwitterClone\\Source\\Core\\TwitterClone.Application\\TwitterClone.Application.csproj"
+              },
+              "C:\\Users\\ABFC156\\Documents\\My Development\\Interviews\\Allan Gray\\TwitterClone\\Source\\Infrastructure\\TwitterClone.Infrastructure.FileReader\\TwitterClone.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\ABFC156\\Documents\\My Development\\Interviews\\Allan Gray\\TwitterClone\\Source\\Infrastructure\\TwitterClone.Infrastructure.FileReader\\TwitterClone.Infrastructure.csproj"
+              },
+              "C:\\Users\\ABFC156\\Documents\\My Development\\Interviews\\Allan Gray\\TwitterClone\\TwitterClone.Repository\\TwitterClone.Repository.csproj": {
+                "projectPath": "C:\\Users\\ABFC156\\Documents\\My Development\\Interviews\\Allan Gray\\TwitterClone\\TwitterClone.Repository\\TwitterClone.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.3.1, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.18.2, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.2, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ABFC156\\Documents\\My Development\\Interviews\\Allan Gray\\TwitterClone\\TwitterClone.Repository\\TwitterClone.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ABFC156\\Documents\\My Development\\Interviews\\Allan Gray\\TwitterClone\\TwitterClone.Repository\\TwitterClone.Repository.csproj",
+        "projectName": "TwitterClone.Repository",
+        "projectPath": "C:\\Users\\ABFC156\\Documents\\My Development\\Interviews\\Allan Gray\\TwitterClone\\TwitterClone.Repository\\TwitterClone.Repository.csproj",
+        "packagesPath": "C:\\Users\\ABFC156\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ABFC156\\Documents\\My Development\\Interviews\\Allan Gray\\TwitterClone\\TwitterClone.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ABFC156\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://artifacts.bcp.absa.co.za/artifactory/api/nuget/absa-access-nuget": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\ABFC156\\Documents\\My Development\\Interviews\\Allan Gray\\TwitterClone\\Source\\Core\\TwitterClone.Application\\TwitterClone.Application.csproj": {
+                "projectPath": "C:\\Users\\ABFC156\\Documents\\My Development\\Interviews\\Allan Gray\\TwitterClone\\Source\\Core\\TwitterClone.Application\\TwitterClone.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

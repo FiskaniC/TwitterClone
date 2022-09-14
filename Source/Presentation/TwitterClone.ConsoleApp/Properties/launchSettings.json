@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TwitterClone.ConsoleApp": {
+      "commandName": "Project",
+      "commandLineArgs": "user.txt tweet.txt"
+    }
+  }
+}

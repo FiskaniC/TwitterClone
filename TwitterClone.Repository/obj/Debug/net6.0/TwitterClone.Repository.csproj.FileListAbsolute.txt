@@ -1,0 +1,15 @@
+C:\Users\ABFC156\Documents\My Development\Interviews\Allan Gray\TwitterClone\TwitterClone.Repository\bin\Debug\net6.0\TwitterClone.Repository.deps.json
+C:\Users\ABFC156\Documents\My Development\Interviews\Allan Gray\TwitterClone\TwitterClone.Repository\bin\Debug\net6.0\TwitterClone.Repository.dll
+C:\Users\ABFC156\Documents\My Development\Interviews\Allan Gray\TwitterClone\TwitterClone.Repository\bin\Debug\net6.0\TwitterClone.Repository.pdb
+C:\Users\ABFC156\Documents\My Development\Interviews\Allan Gray\TwitterClone\TwitterClone.Repository\bin\Debug\net6.0\TwitterClone.Application.dll
+C:\Users\ABFC156\Documents\My Development\Interviews\Allan Gray\TwitterClone\TwitterClone.Repository\bin\Debug\net6.0\TwitterClone.Application.pdb
+C:\Users\ABFC156\Documents\My Development\Interviews\Allan Gray\TwitterClone\TwitterClone.Repository\obj\Debug\net6.0\TwitterClone.Repository.csproj.AssemblyReference.cache
+C:\Users\ABFC156\Documents\My Development\Interviews\Allan Gray\TwitterClone\TwitterClone.Repository\obj\Debug\net6.0\TwitterClone.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABFC156\Documents\My Development\Interviews\Allan Gray\TwitterClone\TwitterClone.Repository\obj\Debug\net6.0\TwitterClone.Repository.AssemblyInfoInputs.cache
+C:\Users\ABFC156\Documents\My Development\Interviews\Allan Gray\TwitterClone\TwitterClone.Repository\obj\Debug\net6.0\TwitterClone.Repository.AssemblyInfo.cs
+C:\Users\ABFC156\Documents\My Development\Interviews\Allan Gray\TwitterClone\TwitterClone.Repository\obj\Debug\net6.0\TwitterClone.Repository.csproj.CoreCompileInputs.cache
+C:\Users\ABFC156\Documents\My Development\Interviews\Allan Gray\TwitterClone\TwitterClone.Repository\obj\Debug\net6.0\TwitterClone.Repository.csproj.CopyComplete
+C:\Users\ABFC156\Documents\My Development\Interviews\Allan Gray\TwitterClone\TwitterClone.Repository\obj\Debug\net6.0\TwitterClone.Repository.dll
+C:\Users\ABFC156\Documents\My Development\Interviews\Allan Gray\TwitterClone\TwitterClone.Repository\obj\Debug\net6.0\refint\TwitterClone.Repository.dll
+C:\Users\ABFC156\Documents\My Development\Interviews\Allan Gray\TwitterClone\TwitterClone.Repository\obj\Debug\net6.0\TwitterClone.Repository.pdb
+C:\Users\ABFC156\Documents\My Development\Interviews\Allan Gray\TwitterClone\TwitterClone.Repository\obj\Debug\net6.0\ref\TwitterClone.Repository.dll

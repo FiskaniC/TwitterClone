@@ -1,0 +1,12 @@
+C:\Users\ABFC156\Documents\My Development\Interviews\Allan Gray\TwitterClone\Source\Core\TwitterClone.Application\bin\Debug\net6.0\TwitterClone.Application.deps.json
+C:\Users\ABFC156\Documents\My Development\Interviews\Allan Gray\TwitterClone\Source\Core\TwitterClone.Application\bin\Debug\net6.0\TwitterClone.Application.dll
+C:\Users\ABFC156\Documents\My Development\Interviews\Allan Gray\TwitterClone\Source\Core\TwitterClone.Application\bin\Debug\net6.0\TwitterClone.Application.pdb
+C:\Users\ABFC156\Documents\My Development\Interviews\Allan Gray\TwitterClone\Source\Core\TwitterClone.Application\obj\Debug\net6.0\TwitterClone.Application.csproj.AssemblyReference.cache
+C:\Users\ABFC156\Documents\My Development\Interviews\Allan Gray\TwitterClone\Source\Core\TwitterClone.Application\obj\Debug\net6.0\TwitterClone.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABFC156\Documents\My Development\Interviews\Allan Gray\TwitterClone\Source\Core\TwitterClone.Application\obj\Debug\net6.0\TwitterClone.Application.AssemblyInfoInputs.cache
+C:\Users\ABFC156\Documents\My Development\Interviews\Allan Gray\TwitterClone\Source\Core\TwitterClone.Application\obj\Debug\net6.0\TwitterClone.Application.AssemblyInfo.cs
+C:\Users\ABFC156\Documents\My Development\Interviews\Allan Gray\TwitterClone\Source\Core\TwitterClone.Application\obj\Debug\net6.0\TwitterClone.Application.csproj.CoreCompileInputs.cache
+C:\Users\ABFC156\Documents\My Development\Interviews\Allan Gray\TwitterClone\Source\Core\TwitterClone.Application\obj\Debug\net6.0\TwitterClone.Application.dll
+C:\Users\ABFC156\Documents\My Development\Interviews\Allan Gray\TwitterClone\Source\Core\TwitterClone.Application\obj\Debug\net6.0\refint\TwitterClone.Application.dll
+C:\Users\ABFC156\Documents\My Development\Interviews\Allan Gray\TwitterClone\Source\Core\TwitterClone.Application\obj\Debug\net6.0\TwitterClone.Application.pdb
+C:\Users\ABFC156\Documents\My Development\Interviews\Allan Gray\TwitterClone\Source\Core\TwitterClone.Application\obj\Debug\net6.0\ref\TwitterClone.Application.dll

@@ -1,0 +1,15 @@
+C:\Users\ABFC156\Documents\My Development\Interviews\Allan Gray\TwitterClone\Source\Infrastructure\TwitterClone.Infrastructure.FileReader\bin\Debug\net6.0\TwitterClone.Infrastructure.deps.json
+C:\Users\ABFC156\Documents\My Development\Interviews\Allan Gray\TwitterClone\Source\Infrastructure\TwitterClone.Infrastructure.FileReader\bin\Debug\net6.0\TwitterClone.Infrastructure.dll
+C:\Users\ABFC156\Documents\My Development\Interviews\Allan Gray\TwitterClone\Source\Infrastructure\TwitterClone.Infrastructure.FileReader\bin\Debug\net6.0\TwitterClone.Infrastructure.pdb
+C:\Users\ABFC156\Documents\My Development\Interviews\Allan Gray\TwitterClone\Source\Infrastructure\TwitterClone.Infrastructure.FileReader\bin\Debug\net6.0\TwitterClone.Application.dll
+C:\Users\ABFC156\Documents\My Development\Interviews\Allan Gray\TwitterClone\Source\Infrastructure\TwitterClone.Infrastructure.FileReader\bin\Debug\net6.0\TwitterClone.Application.pdb
+C:\Users\ABFC156\Documents\My Development\Interviews\Allan Gray\TwitterClone\Source\Infrastructure\TwitterClone.Infrastructure.FileReader\obj\Debug\net6.0\TwitterClone.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\ABFC156\Documents\My Development\Interviews\Allan Gray\TwitterClone\Source\Infrastructure\TwitterClone.Infrastructure.FileReader\obj\Debug\net6.0\TwitterClone.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABFC156\Documents\My Development\Interviews\Allan Gray\TwitterClone\Source\Infrastructure\TwitterClone.Infrastructure.FileReader\obj\Debug\net6.0\TwitterClone.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ABFC156\Documents\My Development\Interviews\Allan Gray\TwitterClone\Source\Infrastructure\TwitterClone.Infrastructure.FileReader\obj\Debug\net6.0\TwitterClone.Infrastructure.AssemblyInfo.cs
+C:\Users\ABFC156\Documents\My Development\Interviews\Allan Gray\TwitterClone\Source\Infrastructure\TwitterClone.Infrastructure.FileReader\obj\Debug\net6.0\TwitterClone.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ABFC156\Documents\My Development\Interviews\Allan Gray\TwitterClone\Source\Infrastructure\TwitterClone.Infrastructure.FileReader\obj\Debug\net6.0\TwitterClone.Infrastructure.csproj.CopyComplete
+C:\Users\ABFC156\Documents\My Development\Interviews\Allan Gray\TwitterClone\Source\Infrastructure\TwitterClone.Infrastructure.FileReader\obj\Debug\net6.0\TwitterClone.Infrastructure.dll
+C:\Users\ABFC156\Documents\My Development\Interviews\Allan Gray\TwitterClone\Source\Infrastructure\TwitterClone.Infrastructure.FileReader\obj\Debug\net6.0\refint\TwitterClone.Infrastructure.dll
+C:\Users\ABFC156\Documents\My Development\Interviews\Allan Gray\TwitterClone\Source\Infrastructure\TwitterClone.Infrastructure.FileReader\obj\Debug\net6.0\TwitterClone.Infrastructure.pdb
+C:\Users\ABFC156\Documents\My Development\Interviews\Allan Gray\TwitterClone\Source\Infrastructure\TwitterClone.Infrastructure.FileReader\obj\Debug\net6.0\ref\TwitterClone.Infrastructure.dll

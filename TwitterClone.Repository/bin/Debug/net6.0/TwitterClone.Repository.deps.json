@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TwitterClone.Repository/1.0.0": {
+        "dependencies": {
+          "TwitterClone.Application": "1.0.0"
+        },
+        "runtime": {
+          "TwitterClone.Repository.dll": {}
+        }
+      },
+      "TwitterClone.Application/1.0.0": {
+        "runtime": {
+          "TwitterClone.Application.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TwitterClone.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TwitterClone.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
